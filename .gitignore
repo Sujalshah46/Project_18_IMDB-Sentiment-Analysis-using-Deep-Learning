@@ -1,0 +1,9 @@
+
+# System & Temporary Files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Large Files (>50MB) Ignored
+IMDB Dataset_Project_18_IMDB Sentiment Analysis using Deep Learning.csv
